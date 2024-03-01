@@ -4,7 +4,7 @@ import random
 import filecmp
 
 # change POSCAR file
-def modify_POSCAR(/truba/home/modarresi/playground/test/game):
+def modify_POSCAR(/truba/home/modarresi/playground/test/game/POSCAR):
     with open(/truba/home/modarresi/playground/test/game/POSCAR , 'r') as file:
         lines = file.readlines()
         
